@@ -1,1 +1,1 @@
-my second readme and software engineering is fun when you know the basics.
+my second readme file, studying software engineering is going to be productive to me.
